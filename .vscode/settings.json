@@ -1,0 +1,5 @@
+// .vscode/settings.json
+{
+    "prettier.eslintIntegration": true,
+    "editor.formatOnSave": true
+  }
