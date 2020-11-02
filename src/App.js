@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { Component } from "react";
 import Forms from "./sections/forms";
 
@@ -6,6 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <Forms />
+
       </div>
     );
   }
